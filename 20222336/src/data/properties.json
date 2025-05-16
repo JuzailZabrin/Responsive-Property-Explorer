@@ -1,0 +1,145 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "type": "house",
+      "price": 450000,
+      "bedrooms": 3,
+      "dateAdded": "2025-01-01",
+      "postcode": "BR1",
+      "title": "Beautiful Family Home",
+      "shortDescription": "Spacious 3-bedroom house with garden",
+      "longDescription": "A beautifully presented three bedroom semi-detached family home offering bright and spacious accommodation throughout. The property features a modern fitted kitchen, large living room, and a well-maintained garden.",
+      "images": [
+        "/src/images/house1/main.jpg",
+        "/src/images/house1/kitchen.jpg",
+        "/src/images/house1/living.jpg",
+        "/src/images/house1/bedroom1.jpg",
+        "/src/images/house1/bedroom2.jpg",
+        "/src/images/house1/garden.jpg"
+      ],
+      "floorPlan": "/src/images/house1/floorplan.jpg",
+      "location": {
+        "lat": 51.4095,
+        "lng": 0.0177
+      }
+    },
+    {
+      "id": 2,
+      "type": "flat",
+      "price": 325000,
+      "bedrooms": 2,
+      "dateAdded": "2025-01-02",
+      "postcode": "NW1",
+      "title": "Modern City Apartment",
+      "shortDescription": "Stylish 2-bedroom apartment in prime location",
+      "longDescription": "A stunning two bedroom apartment in a modern development. Features include an open-plan kitchen/living area, two double bedrooms, and a private balcony with city views.",
+      "images": [
+        "/src/images/flat1/main.jpg",
+        "/src/images/flat1/kitchen.jpg",
+        "/src/images/flat1/living.jpg",
+        "/src/images/flat1/bedroom1.jpg",
+        "/src/images/flat1/bedroom2.jpg",
+        "/src/images/flat1/balcony.jpg"
+      ],
+      "floorPlan": "/src/images/flat1/floorplan.jpg",
+      "location": {
+        "lat": 51.5347,
+        "lng": -0.1428
+      }
+    },
+    {
+      "id": 3,
+      "type": "house",
+      "price": 750000,
+      "bedrooms": 4,
+      "dateAdded": "2025-01-03",
+      "postcode": "SW1",
+      "title": "Luxury House",
+      "shortDescription": "Stunning 4-bedroom luxury property",
+      "longDescription": "An exceptional Victorian house with period features throughout. Comprises four bedrooms, three bathrooms, large kitchen/diner, and a landscaped garden.",
+      "images": [
+        "/src/images/house2/main.jpg",
+        "/src/images/house2/kitchen.jpg",
+        "/src/images/house2/living.jpg",
+        "/src/images/house2/bedroom1.jpg",
+        "/src/images/house2/bathroom.jpg",
+        "/src/images/house2/garden.jpg"
+      ],
+      "floorPlan": "/src/images/house2/floorplan.jpg",
+      "location": {
+        "lat": 51.4937,
+        "lng": -0.1465
+      }
+    },
+    {
+      "id": 4,
+      "type": "flat",
+      "price": 275000,
+      "bedrooms": 1,
+      "dateAdded": "2025-01-04",
+      "postcode": "E1",
+      "title": " Studio Apartment",
+      "shortDescription": "Modern 1-bedroom apartment in East London",
+      "longDescription": "A beautifully presented one-bedroom apartment in a contemporary development. Features include high-spec finishes, floor-to-ceiling windows, and communal garden.",
+      "images": [
+        "/src/images/flat2/living.jpg",
+        "/src/images/flat2/kitchen.jpg",
+        "/src/images/flat2/bedroom.jpg",
+        "/src/images/flat2/bathroom.jpg"
+      ],
+      "floorPlan": "/src/images/flat2/floorplan.jpg",
+      "location": {
+        "lat": 51.5174,
+        "lng": -0.0628
+      }
+    },
+    {
+      "id": 5,
+      "type": "house",
+      "price": 550000,
+      "bedrooms": 3,
+      "dateAdded": "2025-01-05",
+      "postcode": "SE1",
+      "title": "Riverside Townhouse",
+      "shortDescription": "Modern 3-bedroom townhouse with river views",
+      "longDescription": "A contemporary three-bedroom townhouse with stunning river views. Features include a modern kitchen, open-plan living area, and private roof terrace.",
+      "images": [
+        "/src/images/house3/main.jpg",
+        "/src/images/house3/kitchen.jpg",
+        "/src/images/house3/living.jpg",
+        "/src/images/house3/bedroom.jpg",
+        "/src/images/house3/bathroom.jpg"
+      ],
+      "floorPlan": "/src/images/house3/floorplan.jpg",
+      "location": {
+        "lat": 51.5007,
+        "lng": -0.0877
+      }
+    },
+    {
+      "id": 6,
+      "type": "flat",
+      "price": 425000,
+      "bedrooms": 2,
+      "dateAdded": "2025-01-06",
+      "postcode": "W1",
+      "title": "Luxury Apartment",
+      "shortDescription": "High-end 2-bedroom apartment in West End",
+      "longDescription": "An exceptional two-bedroom apartment in a prestigious development. Features include designer kitchen, luxury bathrooms, and 24-hour concierge.",
+      "images": [
+        "/src/images/flat3/main.jpg",
+        "/src/images/flat3/kitchen.jpg",
+        "/src/images/flat3/living.jpg",
+        "/src/images/flat3/bedroom.jpg",
+        "/src/images/flat3/bathroom.jpg",
+        "/src/images/flat3/lobby.jpg"
+      ],
+      "floorPlan": "/src/images/flat3/floorplan.jpg",
+      "location": {
+        "lat": 51.5144,
+        "lng": -0.1437
+      }
+    }
+  ]
+}
